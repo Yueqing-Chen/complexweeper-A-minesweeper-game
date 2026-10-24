@@ -1,0 +1,8 @@
+GLib（glib2）
+=============
+
+版权归 GLib 作者与贡献者所有，具体版权声明见上游源码文件头。
+License: LGPL-2.1-or-later
+Upstream: https://gitlab.gnome.org/GNOME/glib
+
+完整许可证文本见同目录的 LGPL-2.1-or-later.txt。

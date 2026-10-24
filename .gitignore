@@ -1,0 +1,6 @@
+build/
+zig-out/
+.zig-cache/
+complexweeper.exe
+complexweeper-*.exe
+AGENTS.md
